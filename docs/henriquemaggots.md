@@ -1,14 +1,14 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Exemplos de Profile README</span>
+    <span> Henrique Mendonça dos Santos </span>
 </h1>
 
-Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abaixo um exemplo simples de como você pode criar o seu Profile README para o Desafio da [Digital Innovation One](https://www.dio.me/) e faça a sua contribuição 😉🚀.
+Analista de TI Especialista em infraestrutura, redes e Cibersegurança
 
 ---
 
-# Henrique Mendonça
+# Resumo Profissional
 
 Profissional com mais de 15 anos de experiência na área de Tecnologia da Informação, especializado em segurança da informação, gerenciamento de redes e infraestrutura de servidores. Expertise em ambientes Linux e Windows Server, incluindo gerenciamento e manutenção de redes e servidores físicos e virtuais. Atualizado em tecnologias de hardware, software e cibersegurança, com sólida experiência em atendimento e suporte ao usuário. Experiência em gestão e liderança de equipes, focado em otimização de processos e resolução de problemas.
 
