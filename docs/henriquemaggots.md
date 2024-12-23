@@ -10,7 +10,7 @@ Aqui você confere uma lista de exemplos desenvolvida pela comunidade. Veja abai
 
 # Henrique Mendonça
 
-Breve descrição sobre você.
+Profissional com mais de 15 anos de experiência na área de Tecnologia da Informação, especializado em segurança da informação, gerenciamento de redes e infraestrutura de servidores. Expertise em ambientes Linux e Windows Server, incluindo gerenciamento e manutenção de redes e servidores físicos e virtuais. Atualizado em tecnologias de hardware, software e cibersegurança, com sólida experiência em atendimento e suporte ao usuário. Experiência em gestão e liderança de equipes, focado em otimização de processos e resolução de problemas.
 
 ### Conecte-se comigo
 
